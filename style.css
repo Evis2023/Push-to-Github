@@ -1,0 +1,24 @@
+body{
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+    margin: 100px;
+}
+.main{
+    justify-content: space-between;
+    margin: 20px 20px;
+    align-items: center;
+}
+.d-flex{
+    display:flex;
+}
+.likes{
+    box-shadow: 5px 10px black;
+    width: 100px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: rgb(174, 136, 61);
+}
+.end{
+    margin-left: 20px;
+}
